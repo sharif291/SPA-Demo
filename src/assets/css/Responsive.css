@@ -1,0 +1,60 @@
+@media only screen and (max-width: 500px) {
+  .nav-header{
+    padding: 20px 5%;
+  }
+  .title-line{
+    margin: auto;
+  }
+  .main {
+    padding-top: 70px;
+  }
+  .container {
+    padding: 0px;
+  }
+  .title {
+    font-size: 25px;
+    margin: 25px auto;
+    position: relative;
+    line-height: 1;
+    color: #000;
+  }
+  .fb-100 {
+    flex-basis: 100%;
+    text-align: center;
+  }
+  .container {
+    width: 95%;
+  }
+  .footer-link {
+    margin-left: -20px;
+  }
+  .footer-link li {
+    text-align: center;
+    width: 100%;
+    padding: 5px;
+    margin-left: -17px;
+  }
+  .footer-logo img {
+    max-width: 270px;
+    max-height: 170px;
+  }
+  .social-media {
+    text-align: center;
+  }
+  .home-page {
+    margin-top: 0px;
+  }
+  .single-features-item{
+    margin-top: 10px;
+  }
+  .newsletter-section input {
+    width: 200PX;
+  }
+  .newsletter-section .btn {
+    width: 135px;
+  }
+  .service-page{
+    margin: 0;
+    padding-top: 70px;
+  }
+}
